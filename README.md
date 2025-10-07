@@ -1,6 +1,6 @@
-## Olá, Mundo! Eu me chamo Cainã Mateus.👋
+## Olá! Eu me chamo Cainã.👋
 
-- 🔭 Em busca de iniciar na área
+- 🔭 Em busca de um trabalho remoto
 - 🌱 Estudando Java
 - 📫 Meu email: caina.wanzeler@gmail.com
 
