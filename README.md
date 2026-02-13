@@ -10,9 +10,10 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caina-wanzeler&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Java-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="C-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="java-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="vue-icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
 </div>
 <br>
 <div> 
